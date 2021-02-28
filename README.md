@@ -1,6 +1,3 @@
-# Wordpress-con-Kubernetes
-Creación de Wordpress con Kubernetes de Azure
-
 # Tutorial de Wordpress con Kubernetes
 
 Para ver el tutorial introductorio y que instalar, checa este video:
